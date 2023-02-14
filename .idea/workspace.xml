@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676304072985</updated>
       <workItem from="1676304074040" duration="8293000" />
-      <workItem from="1676336190468" duration="2659000" />
+      <workItem from="1676336190468" duration="3801000" />
     </task>
     <task id="LOCAL-00001" summary="finishing facebook">
       <created>1676304569016</created>
@@ -200,7 +201,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676339682481</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="have finished logical operators">
+      <created>1676339792396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676339792396</updated>
+    </task>
+    <task id="LOCAL-00021" summary="have finished logical operators">
+      <created>1676339900810</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676339900811</updated>
+    </task>
+    <task id="LOCAL-00022" summary="have finished logical operators">
+      <created>1676340012469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676340012469</updated>
+    </task>
+    <task id="LOCAL-00023" summary="have finished logical operators">
+      <created>1676340066134</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676340066134</updated>
+    </task>
+    <task id="LOCAL-00024" summary="have finished logical operators">
+      <created>1676340312334</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676340312334</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
