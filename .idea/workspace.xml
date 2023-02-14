@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/22.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676304072985</updated>
       <workItem from="1676304074040" duration="8293000" />
-      <workItem from="1676336190468" duration="2306000" />
+      <workItem from="1676336190468" duration="2659000" />
     </task>
     <task id="LOCAL-00001" summary="finishing facebook">
       <created>1676304569016</created>
@@ -179,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676338370319</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="have finished logical operators">
+      <created>1676339465847</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676339465847</updated>
+    </task>
+    <task id="LOCAL-00018" summary="have finished logical operators">
+      <created>1676339640317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676339640317</updated>
+    </task>
+    <task id="LOCAL-00019" summary="have finished logical operators">
+      <created>1676339682481</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676339682481</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +214,7 @@
     <MESSAGE value="have finished Basic operators,maths" />
     <MESSAGE value="have finished comparisons" />
     <MESSAGE value="have finished conditional branching" />
-    <option name="LAST_COMMIT_MESSAGE" value="have finished conditional branching" />
+    <MESSAGE value="have finished logical operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="have finished logical operators" />
   </component>
 </project>
