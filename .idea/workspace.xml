@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/19.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LgsU4d8Yn1MpNgUrdjgHkhK7zl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab3/JavaScript Info" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="alert.js" type="NodeJSConfigurationType" path-to-node="node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab3/JavaScript Info/alert.js" working-dir="$PROJECT_DIR$/lab3">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="" />
+      <created>1676304072985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676304072985</updated>
+      <workItem from="1676304074040" duration="8293000" />
+      <workItem from="1676336190468" duration="2306000" />
+    </task>
+    <task id="LOCAL-00001" summary="finishing facebook">
+      <created>1676304569016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676304569016</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finishing facebook">
+      <created>1676314268350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314268350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="have finished first 6 tasks on JavaScript intro">
+      <created>1676318281361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676318281361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="have finished first 6 tasks on JavaScript intro">
+      <created>1676318433371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676318433371</updated>
+    </task>
+    <task id="LOCAL-00005" summary="have finished Data Types of JavaScript Fundamentals">
+      <created>1676323506092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676323506092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="have finished Interaction of JavaScript Fundamentals">
+      <created>1676324741384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676324741384</updated>
+    </task>
+    <task id="LOCAL-00007" summary="have finished Basic operators,maths">
+      <created>1676331611682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676331611682</updated>
+    </task>
+    <task id="LOCAL-00008" summary="have finished Basic operators,maths">
+      <created>1676331970927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676331970927</updated>
+    </task>
+    <task id="LOCAL-00009" summary="have finished Basic operators,maths">
+      <created>1676332359196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676332359196</updated>
+    </task>
+    <task id="LOCAL-00010" summary="have finished Basic operators,maths">
+      <created>1676332572330</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676332572330</updated>
+    </task>
+    <task id="LOCAL-00011" summary="have finished comparisons">
+      <created>1676336241442</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676336241442</updated>
+    </task>
+    <task id="LOCAL-00012" summary="have finished conditional branching">
+      <created>1676337514185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676337514185</updated>
+    </task>
+    <task id="LOCAL-00013" summary="have finished conditional branching">
+      <created>1676337746013</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676337746013</updated>
+    </task>
+    <task id="LOCAL-00014" summary="have finished conditional branching">
+      <created>1676337975877</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676337975877</updated>
+    </task>
+    <task id="LOCAL-00015" summary="have finished conditional branching">
+      <created>1676338157746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676338157746</updated>
+    </task>
+    <task id="LOCAL-00016" summary="have finished conditional branching">
+      <created>1676338370319</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676338370319</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finishing facebook" />
+    <MESSAGE value="have finished first 6 tasks on JavaScript intro" />
+    <MESSAGE value="have finished Data Types of JavaScript Fundamentals" />
+    <MESSAGE value="have finished Interaction of JavaScript Fundamentals" />
+    <MESSAGE value="have finished Basic operators,maths" />
+    <MESSAGE value="have finished comparisons" />
+    <MESSAGE value="have finished conditional branching" />
+    <option name="LAST_COMMIT_MESSAGE" value="have finished conditional branching" />
+  </component>
+</project>
