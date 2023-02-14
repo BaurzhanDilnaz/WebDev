@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/31.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676304072985</updated>
       <workItem from="1676304074040" duration="8293000" />
-      <workItem from="1676336190468" duration="4560000" />
+      <workItem from="1676336190468" duration="5155000" />
     </task>
     <task id="LOCAL-00001" summary="finishing facebook">
       <created>1676304569016</created>
@@ -242,7 +242,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676340934638</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="have finished loops">
+      <created>1676372908617</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676372908617</updated>
+    </task>
+    <task id="LOCAL-00027" summary="have finished loops">
+      <created>1676373103896</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676373103896</updated>
+    </task>
+    <task id="LOCAL-00028" summary="have finished loops">
+      <created>1676373194758</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676373194758</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +278,7 @@
     <MESSAGE value="have finished comparisons" />
     <MESSAGE value="have finished conditional branching" />
     <MESSAGE value="have finished logical operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="have finished logical operators" />
+    <MESSAGE value="have finished loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="have finished loops" />
   </component>
 </project>
