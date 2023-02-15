@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/37.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/38.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <updated>1676304072985</updated>
       <workItem from="1676304074040" duration="8293000" />
       <workItem from="1676336190468" duration="7925000" />
-      <workItem from="1676493771209" duration="986000" />
+      <workItem from="1676493771209" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="finishing facebook">
       <created>1676304569016</created>
@@ -300,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676481108492</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="have finished functions">
+      <created>1676494767545</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676494767545</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +323,7 @@
     <MESSAGE value="have finished logical operators" />
     <MESSAGE value="have finished loops" />
     <MESSAGE value="have finished switch case" />
-    <option name="LAST_COMMIT_MESSAGE" value="have finished switch case" />
+    <MESSAGE value="have finished functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="have finished functions" />
   </component>
 </project>
