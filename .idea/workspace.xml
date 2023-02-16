@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/100.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/101.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/81.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/82.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/83.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/84.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/85.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/86.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/87.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/88.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/89.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/90.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/91.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/92.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/93.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/94.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/95.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/97.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/98.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/99.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/JavaScript Info/91.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/JavaScript Info/91.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,77 +67,7 @@
       <workItem from="1676304074040" duration="8293000" />
       <workItem from="1676336190468" duration="7925000" />
       <workItem from="1676493771209" duration="2506000" />
-      <workItem from="1676553134930" duration="3634000" />
-    </task>
-    <task id="LOCAL-00029" summary="have finished loops">
-      <created>1676373498818</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1676373498818</updated>
-    </task>
-    <task id="LOCAL-00030" summary="have finished loops">
-      <created>1676373612367</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1676373612367</updated>
-    </task>
-    <task id="LOCAL-00031" summary="have finished loops">
-      <created>1676480602241</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1676480602241</updated>
-    </task>
-    <task id="LOCAL-00032" summary="have finished switch case">
-      <created>1676480907684</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1676480907684</updated>
-    </task>
-    <task id="LOCAL-00033" summary="have finished switch case">
-      <created>1676481108492</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1676481108492</updated>
-    </task>
-    <task id="LOCAL-00034" summary="have finished functions">
-      <created>1676494767545</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1676494767545</updated>
-    </task>
-    <task id="LOCAL-00035" summary="have finished functions">
-      <created>1676495660077</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1676495660077</updated>
-    </task>
-    <task id="LOCAL-00036" summary="have finished functions">
-      <created>1676495808971</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1676495808971</updated>
-    </task>
-    <task id="LOCAL-00037" summary="have finished functions">
-      <created>1676495927561</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1676495927561</updated>
-    </task>
-    <task id="LOCAL-00038" summary="have finished arrow functions">
-      <created>1676554697561</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1676554697561</updated>
+      <workItem from="1676553134930" duration="3969000" />
     </task>
     <task id="LOCAL-00039" summary="have finished Garbage collect of Objects">
       <created>1676554820342</created>
@@ -432,7 +342,77 @@
       <option name="project" value="LOCAL" />
       <updated>1676557267358</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="&#10;have finished Array methods of Data Types">
+      <created>1676558190222</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558190222</updated>
+    </task>
+    <task id="LOCAL-00079" summary="&#10;have finished Array methods of Data Types">
+      <created>1676558202075</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558202075</updated>
+    </task>
+    <task id="LOCAL-00080" summary="&#10;have finished Data Types">
+      <created>1676558234199</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558234199</updated>
+    </task>
+    <task id="LOCAL-00081" summary="&#10;have finished Data Types">
+      <created>1676558295610</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558295610</updated>
+    </task>
+    <task id="LOCAL-00082" summary="&#10;have finished Data Types">
+      <created>1676558312815</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558312815</updated>
+    </task>
+    <task id="LOCAL-00083" summary="&#10;have finished Data Types">
+      <created>1676558330207</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558330207</updated>
+    </task>
+    <task id="LOCAL-00084" summary="&#10;have finished Data Types">
+      <created>1676558355312</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558355312</updated>
+    </task>
+    <task id="LOCAL-00085" summary="&#10;have finished Data Types">
+      <created>1676558376845</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558376845</updated>
+    </task>
+    <task id="LOCAL-00086" summary="&#10;have finished Data Types">
+      <created>1676558397805</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558397806</updated>
+    </task>
+    <task id="LOCAL-00087" summary="&#10;have finished Data Types">
+      <created>1676558415838</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558415838</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,6 +435,7 @@
     <MESSAGE value="have finished number of Data types" />
     <MESSAGE value="&#10;have finished Strings of Data Types" />
     <MESSAGE value="&#10;have finished Array methods of Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;have finished Array methods of Data Types" />
+    <MESSAGE value="&#10;have finished Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;have finished Data Types" />
   </component>
 </project>
