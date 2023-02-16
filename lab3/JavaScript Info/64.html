@@ -3,7 +3,11 @@
 
 <body>
     <script>
+        function extractCurrencyValue(str) {
+            return +str.slice(1);
+        }
 
+        alert(extractCurrencyValue('$120'));
     </script>
 </body>
 </html>
