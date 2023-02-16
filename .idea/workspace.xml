@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab3/JavaScript Info/95.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/JavaScript Info/95.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/JavaScript Info/38.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,353 +66,247 @@
       <updated>1676304072985</updated>
       <workItem from="1676304074040" duration="8293000" />
       <workItem from="1676336190468" duration="7925000" />
-      <workItem from="1676493771209" duration="2506000" />
-      <workItem from="1676553134930" duration="4303000" />
+      <workItem from="1676493771209" duration="1631000" />
     </task>
-    <task id="LOCAL-00043" summary="have finished Garbage collect of Objects">
-      <created>1676555624112</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+    <task id="LOCAL-00001" summary="finishing facebook">
+      <created>1676304569016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1676555624113</updated>
+      <updated>1676304569016</updated>
     </task>
-    <task id="LOCAL-00044" summary="have finished Garbage collect of Objects">
-      <created>1676555641923</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+    <task id="LOCAL-00002" summary="finishing facebook">
+      <created>1676314268350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1676555641923</updated>
+      <updated>1676314268350</updated>
     </task>
-    <task id="LOCAL-00045" summary="have finished number of Data types">
-      <created>1676555679297</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+    <task id="LOCAL-00003" summary="have finished first 6 tasks on JavaScript intro">
+      <created>1676318281361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1676555679297</updated>
+      <updated>1676318281361</updated>
     </task>
-    <task id="LOCAL-00046" summary="have finished number of Data types">
-      <created>1676555705370</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+    <task id="LOCAL-00004" summary="have finished first 6 tasks on JavaScript intro">
+      <created>1676318433371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1676555705370</updated>
+      <updated>1676318433371</updated>
     </task>
-    <task id="LOCAL-00047" summary="have finished number of Data types">
-      <created>1676555738370</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+    <task id="LOCAL-00005" summary="have finished Data Types of JavaScript Fundamentals">
+      <created>1676323506092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1676555738370</updated>
+      <updated>1676323506092</updated>
     </task>
-    <task id="LOCAL-00048" summary="have finished number of Data types">
-      <created>1676555763285</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+    <task id="LOCAL-00006" summary="have finished Interaction of JavaScript Fundamentals">
+      <created>1676324741384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1676555763285</updated>
+      <updated>1676324741384</updated>
     </task>
-    <task id="LOCAL-00049" summary="have finished number of Data types">
-      <created>1676555800371</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+    <task id="LOCAL-00007" summary="have finished Basic operators,maths">
+      <created>1676331611682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1676555800371</updated>
+      <updated>1676331611682</updated>
     </task>
-    <task id="LOCAL-00050" summary="have finished number of Data types">
-      <created>1676555832339</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00008" summary="have finished Basic operators,maths">
+      <created>1676331970927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1676555832339</updated>
+      <updated>1676331970927</updated>
     </task>
-    <task id="LOCAL-00051" summary="have finished number of Data types">
-      <created>1676555855502</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00009" summary="have finished Basic operators,maths">
+      <created>1676332359196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1676555855502</updated>
+      <updated>1676332359196</updated>
     </task>
-    <task id="LOCAL-00052" summary="have finished number of Data types">
-      <created>1676555868472</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00010" summary="have finished Basic operators,maths">
+      <created>1676332572330</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1676555868472</updated>
+      <updated>1676332572330</updated>
     </task>
-    <task id="LOCAL-00053" summary="have finished number of Data types">
-      <created>1676555896286</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00011" summary="have finished comparisons">
+      <created>1676336241442</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1676555896287</updated>
+      <updated>1676336241442</updated>
     </task>
-    <task id="LOCAL-00054" summary="have finished number of Data types">
-      <created>1676555928241</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00012" summary="have finished conditional branching">
+      <created>1676337514185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1676555928241</updated>
+      <updated>1676337514185</updated>
     </task>
-    <task id="LOCAL-00055" summary="have finished number of Data types">
-      <created>1676555960975</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00013" summary="have finished conditional branching">
+      <created>1676337746013</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1676555960975</updated>
+      <updated>1676337746013</updated>
     </task>
-    <task id="LOCAL-00056" summary="have finished number of Data types">
-      <created>1676556363129</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00014" summary="have finished conditional branching">
+      <created>1676337975877</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1676556363129</updated>
+      <updated>1676337975877</updated>
     </task>
-    <task id="LOCAL-00057" summary="have finished number of Data types">
-      <created>1676556384269</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00015" summary="have finished conditional branching">
+      <created>1676338157746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1676556384269</updated>
+      <updated>1676338157746</updated>
     </task>
-    <task id="LOCAL-00058" summary="&#10;have finished Strings of Data Types">
-      <created>1676556419503</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00016" summary="have finished conditional branching">
+      <created>1676338370319</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1676556419503</updated>
+      <updated>1676338370319</updated>
     </task>
-    <task id="LOCAL-00059" summary="&#10;have finished Strings of Data Types">
-      <created>1676556439826</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00017" summary="have finished logical operators">
+      <created>1676339465847</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1676556439826</updated>
+      <updated>1676339465847</updated>
     </task>
-    <task id="LOCAL-00060" summary="&#10;have finished Strings of Data Types">
-      <created>1676556458782</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00018" summary="have finished logical operators">
+      <created>1676339640317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1676556458782</updated>
+      <updated>1676339640317</updated>
     </task>
-    <task id="LOCAL-00061" summary="&#10;have finished Strings of Data Types">
-      <created>1676556477152</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+    <task id="LOCAL-00019" summary="have finished logical operators">
+      <created>1676339682481</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1676556477152</updated>
+      <updated>1676339682481</updated>
     </task>
-    <task id="LOCAL-00062" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556534076</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+    <task id="LOCAL-00020" summary="have finished logical operators">
+      <created>1676339792396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1676556534076</updated>
+      <updated>1676339792396</updated>
     </task>
-    <task id="LOCAL-00063" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556551498</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+    <task id="LOCAL-00021" summary="have finished logical operators">
+      <created>1676339900810</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1676556551498</updated>
+      <updated>1676339900811</updated>
     </task>
-    <task id="LOCAL-00064" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556636045</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+    <task id="LOCAL-00022" summary="have finished logical operators">
+      <created>1676340012469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1676556636045</updated>
+      <updated>1676340012469</updated>
     </task>
-    <task id="LOCAL-00065" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556901426</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+    <task id="LOCAL-00023" summary="have finished logical operators">
+      <created>1676340066134</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1676556901426</updated>
+      <updated>1676340066134</updated>
     </task>
-    <task id="LOCAL-00066" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556922075</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+    <task id="LOCAL-00024" summary="have finished logical operators">
+      <created>1676340312334</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1676556922075</updated>
+      <updated>1676340312334</updated>
     </task>
-    <task id="LOCAL-00067" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556966043</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+    <task id="LOCAL-00025" summary="have finished logical operators">
+      <created>1676340934638</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1676556966043</updated>
+      <updated>1676340934638</updated>
     </task>
-    <task id="LOCAL-00068" summary="&#10;have finished Array methods of Data Types">
-      <created>1676556999042</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+    <task id="LOCAL-00026" summary="have finished loops">
+      <created>1676372908617</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1676556999042</updated>
+      <updated>1676372908617</updated>
     </task>
-    <task id="LOCAL-00069" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557017944</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+    <task id="LOCAL-00027" summary="have finished loops">
+      <created>1676373103896</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1676557017944</updated>
+      <updated>1676373103896</updated>
     </task>
-    <task id="LOCAL-00070" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557086432</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+    <task id="LOCAL-00028" summary="have finished loops">
+      <created>1676373194758</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1676557086432</updated>
+      <updated>1676373194758</updated>
     </task>
-    <task id="LOCAL-00071" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557099608</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+    <task id="LOCAL-00029" summary="have finished loops">
+      <created>1676373498818</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1676557099608</updated>
+      <updated>1676373498818</updated>
     </task>
-    <task id="LOCAL-00072" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557139021</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+    <task id="LOCAL-00030" summary="have finished loops">
+      <created>1676373612367</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1676557139021</updated>
+      <updated>1676373612367</updated>
     </task>
-    <task id="LOCAL-00073" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557166040</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+    <task id="LOCAL-00031" summary="have finished loops">
+      <created>1676480602241</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1676557166040</updated>
+      <updated>1676480602241</updated>
     </task>
-    <task id="LOCAL-00074" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557194512</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+    <task id="LOCAL-00032" summary="have finished switch case">
+      <created>1676480907684</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1676557194512</updated>
+      <updated>1676480907684</updated>
     </task>
-    <task id="LOCAL-00075" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557222321</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+    <task id="LOCAL-00033" summary="have finished switch case">
+      <created>1676481108492</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1676557222321</updated>
+      <updated>1676481108492</updated>
     </task>
-    <task id="LOCAL-00076" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557245296</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+    <task id="LOCAL-00034" summary="have finished functions">
+      <created>1676494767545</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1676557245296</updated>
+      <updated>1676494767545</updated>
     </task>
-    <task id="LOCAL-00077" summary="&#10;have finished Array methods of Data Types">
-      <created>1676557267358</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1676557267358</updated>
-    </task>
-    <task id="LOCAL-00078" summary="&#10;have finished Array methods of Data Types">
-      <created>1676558190222</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558190222</updated>
-    </task>
-    <task id="LOCAL-00079" summary="&#10;have finished Array methods of Data Types">
-      <created>1676558202075</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558202075</updated>
-    </task>
-    <task id="LOCAL-00080" summary="&#10;have finished Data Types">
-      <created>1676558234199</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558234199</updated>
-    </task>
-    <task id="LOCAL-00081" summary="&#10;have finished Data Types">
-      <created>1676558295610</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558295610</updated>
-    </task>
-    <task id="LOCAL-00082" summary="&#10;have finished Data Types">
-      <created>1676558312815</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558312815</updated>
-    </task>
-    <task id="LOCAL-00083" summary="&#10;have finished Data Types">
-      <created>1676558330207</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558330207</updated>
-    </task>
-    <task id="LOCAL-00084" summary="&#10;have finished Data Types">
-      <created>1676558355312</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558355312</updated>
-    </task>
-    <task id="LOCAL-00085" summary="&#10;have finished Data Types">
-      <created>1676558376845</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558376845</updated>
-    </task>
-    <task id="LOCAL-00086" summary="&#10;have finished Data Types">
-      <created>1676558397805</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558397806</updated>
-    </task>
-    <task id="LOCAL-00087" summary="&#10;have finished Data Types">
-      <created>1676558415838</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558415838</updated>
-    </task>
-    <task id="LOCAL-00088" summary="&#10;have finished Data Types">
-      <created>1676558525158</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558525158</updated>
-    </task>
-    <task id="LOCAL-00089" summary="&#10;have finished Data Types">
-      <created>1676558551124</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558551124</updated>
-    </task>
-    <task id="LOCAL-00090" summary="&#10;have finished Data Types">
-      <created>1676558632245</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558632245</updated>
-    </task>
-    <task id="LOCAL-00091" summary="&#10;have finished Data Types">
-      <created>1676558733510</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1676558733510</updated>
-    </task>
-    <option name="localTasksCounter" value="92" />
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,12 +324,6 @@
     <MESSAGE value="have finished loops" />
     <MESSAGE value="have finished switch case" />
     <MESSAGE value="have finished functions" />
-    <MESSAGE value="have finished arrow functions" />
-    <MESSAGE value="have finished Garbage collect of Objects" />
-    <MESSAGE value="have finished number of Data types" />
-    <MESSAGE value="&#10;have finished Strings of Data Types" />
-    <MESSAGE value="&#10;have finished Array methods of Data Types" />
-    <MESSAGE value="&#10;have finished Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;have finished Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="have finished functions" />
   </component>
 </project>
