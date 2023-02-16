@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead25613-f60c-4a03-8300-1c0193dc8d97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab3/JavaScript Info/91.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/JavaScript Info/91.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/JavaScript Info/95.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/JavaScript Info/95.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,35 +67,7 @@
       <workItem from="1676304074040" duration="8293000" />
       <workItem from="1676336190468" duration="7925000" />
       <workItem from="1676493771209" duration="2506000" />
-      <workItem from="1676553134930" duration="3969000" />
-    </task>
-    <task id="LOCAL-00039" summary="have finished Garbage collect of Objects">
-      <created>1676554820342</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1676554820342</updated>
-    </task>
-    <task id="LOCAL-00040" summary="have finished Garbage collect of Objects">
-      <created>1676555191941</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1676555191941</updated>
-    </task>
-    <task id="LOCAL-00041" summary="have finished Garbage collect of Objects">
-      <created>1676555590061</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1676555590061</updated>
-    </task>
-    <task id="LOCAL-00042" summary="have finished Garbage collect of Objects">
-      <created>1676555600191</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1676555600191</updated>
+      <workItem from="1676553134930" duration="4303000" />
     </task>
     <task id="LOCAL-00043" summary="have finished Garbage collect of Objects">
       <created>1676555624112</created>
@@ -412,7 +384,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676558415838</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="&#10;have finished Data Types">
+      <created>1676558525158</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558525158</updated>
+    </task>
+    <task id="LOCAL-00089" summary="&#10;have finished Data Types">
+      <created>1676558551124</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558551124</updated>
+    </task>
+    <task id="LOCAL-00090" summary="&#10;have finished Data Types">
+      <created>1676558632245</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558632245</updated>
+    </task>
+    <task id="LOCAL-00091" summary="&#10;have finished Data Types">
+      <created>1676558733510</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558733510</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
