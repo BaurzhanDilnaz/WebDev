@@ -1,0 +1,51 @@
+
+<h2>Products</h2>
+
+<div *ngFor="let product of products">
+    <h3>
+        <a
+                [title]="product.name + ' details'"
+                [routerLink]="['/products', product.id]">
+            {{ product.name }}
+        </a>
+    </h3>
+
+
+    <img class="product" src={{product.image[0]}} height="140">
+    <p *ngIf="product.description">
+        Description: {{ product.description }}
+    </p>
+    <h4><span class="s">Price: </span>{{ product.price }} ₸</h4>
+    <h4><span class="s">Rating: </span>{{ product.rating}} <img src="http://cdn.onlinewebfonts.com/svg/img_397133.png" height="12"></h4>
+    <a href={{product.link}} alt="Kaspi"><img src="https://troublemakers.tv/wp-content/uploads/Client_kaspi.png" height="36"></a>
+
+
+    <share-buttons theme="modern-dark"
+                   [include]="['telegram', 'whatsapp']"
+                   [showIcon]="false"
+                   [showText]="true"
+                   url={{product.link}}
+                   description="Angular Share Buttons"
+                   twitterAccount="rodrigokamada"
+                   class="pt-5">
+    </share-buttons>
+
+    <app-product-alerts
+            [product]="product">
+    </app-product-alerts>
+    <!-- <div>
+      <button type="button" (click)="share()">
+        Share
+      </button>
+    </div> -->
+</div>
+
+
+
+
+
+<!-- 
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+-->
