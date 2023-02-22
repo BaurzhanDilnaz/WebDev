@@ -36,7 +36,7 @@ h2 {
 }
 
 h3{
-  color: rgb(173, 224, 187);
+  color: rgb(160, 83, 168);
 }
 /* h1, h2 {
 
@@ -103,11 +103,11 @@ label {
 
 .fancy-button {
   background-color: white;
-  color: rgb(98, 185, 163);;
+  color: rgb(160, 83, 168);;
 }
 
 .fancy-button i.material-icons {
-  color: rgb(98, 185, 163);;
+  color: rgb(160, 83, 168);;
   padding-right: 4px;
 }
 
@@ -135,21 +135,21 @@ app-top-bar h1 {
   margin-bottom: 20px;
 }
 
-/* Telegram Button*/
-.telegram{
-  background-color: rgb(96, 140, 202);
-  color: white;
-}
+/*!* Telegram Button*!*/
+/*.telegram{*/
+/*  background-color: rgb(96, 140, 202);*/
+/*  color: white;*/
+/*}*/
 
 /* Price, rating */
 .s {
   font-weight: 400;
 }
 
-/* Telegram and Whatsapp Button*/
-.b {
-  margin-right: 10px;
-}
+/*!* Telegram and Whatsapp Button*!*/
+/*.b {*/
+/*  margin-right: 10px;*/
+/*}*/
 
 /* Photo on the product-detail*/
 .i {
