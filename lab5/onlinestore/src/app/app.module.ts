@@ -10,6 +10,8 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { ShareButtonsModule } from 'ngx-sharebuttons/buttons';
 import { ShareIconsModule } from 'ngx-sharebuttons/icons';
+import { ProductItemComponent } from './product-item/product-item.component';
+import { CategoryComponent } from './category/category.component';
 @NgModule({
   imports: [
     BrowserModule,
@@ -25,7 +27,9 @@ import { ShareIconsModule } from 'ngx-sharebuttons/icons';
     TopBarComponent,
     ProductListComponent,
     ProductAlertsComponent,
-    ProductDetailsComponent
+    ProductDetailsComponent,
+    ProductItemComponent,
+    CategoryComponent
   ],
   bootstrap: [
     AppComponent
