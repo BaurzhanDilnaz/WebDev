@@ -19,7 +19,9 @@ import { CategoryComponent } from './category/category.component';
     ShareButtonsModule,
     ShareIconsModule,
     RouterModule.forRoot([
+      { path: '', component: CategoryComponent },
       { path: '', component: ProductListComponent },
+      { path: 'products/:productId', component: ProductDetailsComponent },
     ])
   ],
   declarations: [
